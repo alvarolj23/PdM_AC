@@ -4,11 +4,11 @@ In this notebook, the predictive maintenance problem is applied to air compresso
 
 ## Repository Structure
 
-functions: created python files
-img: pictures
-models: machine learning models created for solving the problem
-notebooks: Jupyter Notebooks files
-streamlit: file to execute the streamlit app
+- functions: created python files
+- img: pictures
+- models: machine learning models created for solving the problem
+- notebooks: Jupyter Notebooks files
+- streamlit: file to execute the streamlit app
 
 
 ## Conclusions
