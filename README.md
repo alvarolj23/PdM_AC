@@ -2,8 +2,14 @@
 
 In this notebook, the predictive maintenance problem is applied to air compressors.
 
-Intention of this notebook is to follow-up thesis accomplishment. Many items are still pending and a substantial improvement is expected by Februrary next year. I would appreciate any feedback given. 
+## Repository Structure
 
-The front-end hasn’t yet been finalised and a MVP version is expected by presentation time.
+functions: created python files
+img: pictures
+models: machine learning models created for solving the problem
+notebooks: Jupyter Notebooks files
+streamlit: file to execute the streamlit app
 
-P.S. Only the notebook has been uploaded. Google Colab has been used since intention was to apply deep learning. Once request for the colab file is granted, all the files are located in my Google Drive. 
+
+## Conclusions
+By analysing the working variables of air compressor, and tracking vibrations, pressure, temperature and currents, is possible to predict whether a compressor will fail in the following X days ("Diagnostics") and determine the Remaining Useful Life ("Prognostics")
